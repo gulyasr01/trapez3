@@ -1,0 +1,9 @@
+
+# ignore the non source containing folders
+trapez3.cache/
+trapez3.hw/
+trapez3.ip_user_files/
+trapez3.sim
+
+# ignore the project file
+trapez3.xpr
